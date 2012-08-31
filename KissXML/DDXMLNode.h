@@ -20,7 +20,7 @@
  * 
  * https://github.com/robbiehanson/KissXML/wiki/Reference
 **/
-
+   
 enum {
 	DDXMLInvalidKind                = 0,
 	DDXMLDocumentKind               = XML_DOCUMENT_NODE,
