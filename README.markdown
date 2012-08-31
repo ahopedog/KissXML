@@ -1,4 +1,4 @@
-KissXML provides a drop-in replacement for Apple's NSXML class culster in environments without NSXML (e.g. iOS).
+KissXML provides a drop-in replacement for Apple's NSXML class culster in environments without NSXML (e.g. iOS)..
 
 It is implemented atop the defacto libxml2 C library, which comes pre-installed on Mac & iOS.
 But it shields you from all the nasty low-level C pointers and malloc's, and provides an easy-to-use Objective-C library.
